@@ -1,12 +1,12 @@
-Allgemein:
+Allgemein
 Beispiel für eine Java EE Anwendung mit navigierbarem MVP Ansatz. 
 Als Technologien werden Vaadin und Standard Java EE Features verwendet.
 
-Vorraussetzungen:
+Vorraussetzungen
  - Java 7
  - Wildfly 8.2
 
-Erläuterung der Packages:
+Erläuterung der Packages
  - com.elbsoft.examplemvpwithvaadinandcdi
    Main Package
 
